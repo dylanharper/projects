@@ -10,8 +10,8 @@
 
 - Fix bugs:
 
-  - [dotufp](https://github.com/dylanharper/dotufp/issues)
-
   - [vaqmr](https://github.com/dylanharper/vaqmr/issues)
 
   - [huskr](https://github.com/dylanharper/husker/issues)
+
+- Work on backlog [kanban board](https://github.com/dylanharper/projects/projects/1?fullscreen=true)
